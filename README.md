@@ -81,16 +81,16 @@ I believe data insights can enhance solutions to solve complex problems — whet
 
 Proposed a credit-based incentive mechanism for high-value material recovery from e-waste in Mumbai. Integrated economic, social, and sustainability dimensions. Presented at IIT Bombay.
 
-📁 **Repo:** [`ewaste-circular-economy-mumbai`](https://github.com/madhur2605/ewaste-recovery-model-mumbai)
+📁 **Repo:** [`ewaste-recovery-model-mumbai`](https://github.com/madhur2605/ewaste-recovery-model-mumbai)
 
 ---
 
 ### 🏙️ Urban Diagnostics — Kochi GIS Dashboard
-> *Primary Data · Interviews · Excel · KoboToolbox · QGIS · Mapping*
+> *Primary Data · Interviews · KoboToolbox · Excel · QGIS · Mapping*
 
 Co-developed ward-level urban diagnostic indicators for Kochi Municipal Corporation with GIZ. Built spatial dashboards for urban planning decision-making inputs.
 
-📁 **Repo:** [`kochi-urban-diagnostics`](https://github.com/madhur2605/Kochi-urban-diagnostics)
+📁 **Repo:** [`Kochi-urban-diagnostics`](https://github.com/madhur2605/Kochi-urban-diagnostics)
 
 ---
 
