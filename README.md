@@ -6,11 +6,8 @@
 
 *Third-year BS student @ TISS Mumbai | IIT Madras | Aspiring Data Scientist with a Climate Edge*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhur-arya-955843233)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhur.arya260@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhur2605)
-
-![Profile Views](https://komarev.com/ghpvc/?username=madhur2605&color=2ea44f&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=madhur2605&color=eb4d4b&style=flat-square&label=Profile+views)
+[![Follow](https://img.shields.io/github/followers/madhur2605?label=Follow&style=flat-square&logo=github)](https://github.com/madhur2605)
 
 </div>
 
