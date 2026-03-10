@@ -2,9 +2,7 @@
 
 # I'm Madhur Arya!
 
-**Aspiring Data Scientist with a Climate Edge**
-
-*Third-year BS student @ TISS Mumbai | IIT Madras*
+**Aspiring Data Scientist with a Climate Edge** *Third-year BS student @ TISS Mumbai | IIT Madras*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madhur2605&color=eb4d4b&style=flat-square&label=Profile+views)
 [![Follow](https://img.shields.io/github/followers/madhur2605?label=Follow&style=flat-square&logo=github)](https://github.com/madhur2605)
