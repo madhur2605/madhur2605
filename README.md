@@ -67,11 +67,11 @@ I believe data insights can enhance solutions to solve complex problems — whet
 
 | Role | Organisation | Period | Highlights |
 |---|---|---|---|
-| 📰 Management Intern | Pune International Centre | Aug–Sep 2023 | Drafted institutional newsletters · Policy briefs · Expert talk documentation |
+| Management Intern | Pune International Centre | Aug–Sep 2023 | Drafted institutional newsletters · Policy briefs · Expert talk documentation |
 
 ---
 
-## 🌱 Academic Fieldwork
+## 🌱 Academic Fieldwork (urban + rural)
 
 | Program | Location | Year | Highlights |
 |---|---|---|---|
