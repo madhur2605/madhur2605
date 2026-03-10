@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies (3rd year) at **TISS Mumbai** and BS Data Science at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **ESG**, **Energy**, and **sustainability strategy**.
+I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies (3rd year) at **TISS Mumbai** and BS Data Science (Freshman) at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **ESG**, **Energy**, and **sustainability strategy**.
 
 I believe data insights can enhance solutions to solve complex problems — whether it's recovering value from e-waste in Mumbai, calculating climate risks in localised contexts, or designing parameters/indicators to conduct assessments (in SDGs & policy contexts).
 
@@ -63,8 +63,17 @@ I believe data insights can enhance solutions to solve complex problems — whet
 
 ---
 
+## 🌱 Academic Fieldworks & Experience
 
-## 📂 Featured Projects
+| Program | Location | Year | Highlights |
+|---|---|---|---|
+| 🏙️ Urban Immersion (KMC–GIZ) | Kochi, Kerala | 2025 | Ward-level GIS dashboards · Urban diagnostics |
+| 🏘️ Rural Immersion (WOTR) | Ahmednagar, MH | 2024 | Team Lead · 150+ HH survey · SDG-linked water & agri case studies |
+| 📰 Management Intern | Pune International Centre | 2023 | Drafting Institutional newsletters · Expert talks |
+
+---
+
+## 📂 Projects
 
 
 ### ♻️ Credit-Based Circular Economy Model — E-Waste Recovery, Mumbai *(Working Paper)*
@@ -114,16 +123,6 @@ Analyzed 50 years of IMD gridded rainfall data for Ernakulam district to identif
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhur2605&theme=vue-dark&hide_border=true)
 
 </div>
-
----
-
-## 🌱 Academic Fieldworks & Experience
-
-| Program | Location | Year | Highlights |
-|---|---|---|---|
-| 🏙️ Urban Immersion (KMC–GIZ) | Kochi, Kerala | 2025 | Ward-level GIS dashboards · Urban diagnostics |
-| 🏘️ Rural Immersion (WOTR) | Ahmednagar, MH | 2024 | Team Lead · 150+ HH survey · SDG-linked water & agri case studies |
-| 📰 Management Intern | Pune International Centre | 2023 | Drafting Institutional newsletters · Expert talks |
 
 ---
 
