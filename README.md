@@ -111,7 +111,7 @@ Conducted multi-method spatial interpolation of rainfall data for France (NOAA G
 ---
 
 ### 🌊 Flood & Drought Risk Assessment — Ernakulam District
-> *Python · NetCDF · IMD Data 1974–2023 · Pandas · Matplotlib*
+> *Python · NetCDF · IMD Data 1974–2023 · Numpy · Pandas · Matplotlib*
 
 Analyzed 50 years of IMD gridded rainfall data for Ernakulam district to identify historical flood and drought patterns, seasonal anomalies, and risk zones. Produced time-series trend analysis and spatial risk maps.
 
