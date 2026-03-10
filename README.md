@@ -140,7 +140,7 @@ Analyzed 50 years of IMD gridded rainfall data for Ernakulam district to identif
 
 ## 📬 Let's Connect
 
-I'm open to research collaborations, internship opportunities, and conversations on sustainability data science.
+I'm open to research collaborations, internship opportunities, and conversations on sustainability or data science.
 
 📧 **madhur.arya260@gmail.com** | 📍 **Mumbai, India**
 
