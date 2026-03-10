@@ -22,16 +22,6 @@ I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies at 
 
 I believe data insights can enhance solutions to solve complex problems — whether it's recovering value from e-waste in Mumbai, calculating climate risks in localised contexts, or designing parameters/indicators to conduct assessments with SDGs & policy contexts.
 
-```python
-madhur = {
-    "currently"   : ["Spatial Rainfall Interpolation", "Flood & Drought Risk Modelling", "Bibliometric Research"],
-    "tools"       : ["Python", "R", "QGIS", "SQL", "Power BI", "Tableau"],
-    "domain"      : ["Climate Analytics", "GIS", "ESG Reporting", "Circular Economy"],
-    "education"   : ["TISS Mumbai (CGPA 7.9)", "IIT Madras (CGPA 7.75)"],
-    "ask_me_about": ["Spatial Interpolation", "SDGs", "Environmental Risk Assessment", "NetCDF data"]
-}
-```
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -39,11 +29,12 @@ madhur = {
 #### 🐍 Languages & Data Analysis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,mysql&theme=dark" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 #### 🗺️ Geospatial & Visualisation
@@ -53,22 +44,24 @@ madhur = {
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 #### 🧰 Dev Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,jupyter,matlab&theme=dark" />
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 #### 🔬 Research & Sustainability Tools
 
 <p>
-  <img src="https://img.shields.io/badge/VOSviewer-1E3A5F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/VOSviewer-1E3A5F?style=for-the-badge&logo=files&logoColor=white" />
   <img src="https://img.shields.io/badge/Biblioshiny-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white" />
 </p>
