@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies (3rd year) at **TISS Mumbai** and BS Data Science (Freshman) at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **ESG**, **Energy**, and **sustainability strategy**.
+I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies (3rd year) at **TISS Mumbai** and BS Data Science (Freshman) at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **climate**, **ESG**, **Energy**, and **sustainability strategy**.
 
 I believe data insights can enhance solutions to solve complex problems — whether it's recovering value from e-waste in Mumbai, calculating climate risks in localised contexts, or designing parameters/indicators to conduct assessments (in SDGs & policy contexts).
 
