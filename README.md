@@ -63,20 +63,20 @@ I believe data insights can enhance solutions to solve complex problems — whet
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 | Role | Organisation | Period | Highlights |
 |---|---|---|---|
-| 📰 Management Intern | Pune International Centre (Think Tank) | Aug–Sep 2023 | Drafted institutional newsletters · Policy briefs · Expert talk documentation |
+| 📰 Management Intern | Pune International Centre | Aug–Sep 2023 | Drafted institutional newsletters · Policy briefs · Expert talk documentation |
 
 ---
 
-## 🌱 Academic Fieldwork (urban + rural)
+## 🌱 Academic Fieldwork
 
 | Program | Location | Year | Highlights |
 |---|---|---|---|
-| 🏙️ Urban Immersion (KMC–GIZ) | Kochi, Kerala | Sept 2025 | Ward-level GIS dashboards · Urban diagnostics · Presented to KMC & GIZ officials |
-| 🏘️ Rural Immersion (WOTR) | Ahmednagar, MH | July 2024 | Team Lead · 150+ HH survey · SDG-linked Agriculture & Water |
+| 🏙️ Urban Immersion — KMC × GIZ | Kochi, Kerala | Sep 2025 | Ward-level GIS dashboards · Urban diagnostics · Presented to KMC & GIZ officials |
+| 🏘️ Rural Immersion — WOTR | Ahmednagar, MH | Jul 2024 | Team Lead · 150+ HH survey · SDG-linked Agriculture & Water |
 
 ---
 
