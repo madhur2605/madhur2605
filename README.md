@@ -2,7 +2,7 @@
 
 # I'm Madhur Arya!
 
-**Aspiring Data Scientist with a Climate Edge** *Third-year BS student @ TISS Mumbai | IIT Madras*
+**Aspiring Data Scientist with a Climate Edge | *TISS Mumbai | IIT Madras***
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madhur2605&color=eb4d4b&style=flat-square&label=Profile+views)
 [![Follow](https://img.shields.io/github/followers/madhur2605?label=Follow&style=flat-square&logo=github)](https://github.com/madhur2605)
@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies at **TISS Mumbai** and BS Data Science & Applications at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **ESG**, **Energy**, and **sustainability strategy**.
+I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies (3rd year) at **TISS Mumbai** and BS Data Science at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **ESG**, **Energy**, and **sustainability strategy**.
 
 I believe data insights can enhance solutions to solve complex problems — whether it's recovering value from e-waste in Mumbai, calculating climate risks in localised contexts, or designing parameters/indicators to conduct assessments (in SDGs & policy contexts).
 
