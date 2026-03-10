@@ -77,25 +77,25 @@ I believe data insights can enhance solutions to solve complex problems — whet
 
 
 ### ♻️ Credit-Based Circular Economy Model — E-Waste Recovery, Mumbai *(Working Paper)*
-> *Economic Modelling · Sustainability Strategy · ESG · SDG Alignment*
+> *Energy Security · Economic Opportunity · Formalisation · Sustainability Strategy · ESG · SDG Alignment*
 
 Proposed a credit-based incentive mechanism for high-value material recovery from e-waste in Mumbai. Integrated economic, social, and sustainability dimensions. Presented at IIT Bombay.
 
-📁 **Repo:** [`ewaste-circular-economy-mumbai`](https://github.com/madhur2605/ewaste-circular-economy-mumbai)
+📁 **Repo:** [`ewaste-circular-economy-mumbai`](https://github.com/madhur2605/ewaste-recovery-model-mumbai)
 
 ---
 
 ### 🏙️ Urban Diagnostics — Kochi GIS Dashboard
-> *QGIS · GIS Spatial Analysis · KMC / GIZ*
+> *Primary Data · Interviews · Excel · KoboToolbox · QGIS · Mapping*
 
 Co-developed ward-level urban diagnostic indicators for Kochi Municipal Corporation with GIZ. Built spatial dashboards for urban planning decision-making inputs.
 
-📁 **Repo:** [`kochi-urban-diagnostics`](https://github.com/YOUR-USERNAME/kochi-urban-diagnostics)
+📁 **Repo:** [`kochi-urban-diagnostics`](https://github.com/madhur2605/Kochi-urban-diagnostics)
 
 ---
 
 ### 🌧️ Spatial Rainfall Interpolation — France
-> *Python · QGIS · IDW · Kriging · Thin Plate Spline · NOAA GSOD / IMD NetCDF*
+> *Python · QGIS · Excel · IDW · Kriging · Thin Plate Spline · NOAA-GSOD* data
 
 Conducted multi-method spatial interpolation of rainfall data for France (NOAA GSOD). Evaluated IDW, Ordinary Kriging, and TPS methods using RMSE and R² metrics. Extracted station-wise time-series data and generated interpolated raster maps for climate risk communication.
 
