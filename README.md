@@ -70,16 +70,16 @@ I believe data insights can enhance solutions to solve complex problems — whet
 ### ♻️ Credit-Based Circular Economy Model — E-Waste Recovery, Mumbai *(Working Paper)*
 > *Energy Security · Economic Opportunity · Formalisation · Sustainability Strategy · ESG · SDG Alignment*
 
-Proposed a credit-based incentive mechanism for high-value material recovery from e-waste in Mumbai. Integrated economic, social, and sustainability dimensions. Presented at IIT Bombay.
+Proposed a credit-based incentive mechanism for high-value material recovery from e-waste in Mumbai. Integrated economic, social, and sustainability dimensions. Presented in a sustainability conference at IIT Bombay.
 
 📁 **Repo:** [`ewaste-recovery-model-mumbai`](https://github.com/madhur2605/ewaste-recovery-model-mumbai)
 
 ---
 
-### 🏙️ Urban Diagnostics — Kochi GIS Dashboard
+### 🏙️ Kochi Urban Fieldwork (TISS) - Sept, 2025
 > *Primary Data · Interviews · KoboToolbox · Excel · QGIS · Mapping*
 
-Co-developed ward-level urban diagnostic indicators for Kochi Municipal Corporation with GIZ. Built spatial dashboards for urban planning decision-making inputs.
+Co-developed ward-level urban diagnostic indicators in association with Kochi Municipal Corporation, C-HEAD, and GIZ. Built spatial dashboards, posters, and reports to inform decision-making and urban planning.
 
 📁 **Repo:** [`Kochi-urban-diagnostics`](https://github.com/madhur2605/Kochi-urban-diagnostics)
 
