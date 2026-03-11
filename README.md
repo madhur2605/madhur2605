@@ -61,22 +61,6 @@ I believe data insights can enhance solutions to solve complex problems — whet
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white" />
 </p>
 
----
-
-## 💼 Experience
-
-| Role | Organisation | Period | Highlights |
-|---|---|---|---|
-| Management Intern | Pune International Centre | Aug–Sep 2023 | Drafted institutional newsletters · Policy briefs · Expert talk documentation |
-
----
-
-## 🌱 Academic Fieldwork (urban + rural)
-
-| Program | Location | Year | Highlights |
-|---|---|---|---|
-| 🏙️ Urban Immersion — KMC | Kochi, Kerala | Sep 2025 | Ward-level GIS dashboards · Urban diagnostics · Presented to KMC, C-HEAD, & GIZ officials |
-| 🏘️ Rural Immersion — WOTR | Ahmednagar, MH | Jul 2024 | Team Lead · 150+ HH survey · SDG-linked Agriculture & Water |
 
 ---
 
@@ -116,6 +100,23 @@ Conducted multi-method spatial interpolation of rainfall data for France (NOAA G
 Analyzed 50 years of IMD gridded rainfall data for Ernakulam district to identify historical flood and drought patterns, seasonal anomalies, and risk zones. Produced time-series trend analysis and spatial risk maps.
 
 📁 **Repo:** [`ernakulam-flood-drought-risk`](https://github.com/madhur2605/ernakulam-flood-drought-risk)
+
+---
+
+## 💼 Experience
+
+| Role | Organisation | Period | Highlights |
+|---|---|---|---|
+| Management Intern | Pune International Centre | Aug–Sep 2023 | Drafted institutional newsletters · Policy briefs · Expert talk documentation |
+
+---
+
+## 🌱 Academic Fieldwork (urban + rural)
+
+| Program | Location | Year | Highlights |
+|---|---|---|---|
+| 🏙️ Urban Immersion — KMC | Kochi, Kerala | Sep 2025 | Ward-level GIS dashboards · Urban diagnostics · Presented to KMC, C-HEAD, & GIZ officials |
+| 🏘️ Rural Immersion — WOTR | Ahmednagar, MH | Jul 2024 | Team Lead · 150+ HH survey · SDG-linked Agriculture & Water |
 
 ---
 
