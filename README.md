@@ -2,7 +2,11 @@
 
 # I'm Madhur Arya!
 
-**Aspiring Data Scientist with a Climate Edge** || *TISS Mumbai | IIT Madras*
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%8C%BF;Climate+%C3%97+Analytics+%C3%97+Geospatial;TISS+Mumbai+%7C+IIT+Madras;Turning+data+into+climate+action.)](https://git.io/typing-svg)
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madhur2605&color=eb4d4b&style=flat-square&label=Profile+views)
 [![Follow](https://img.shields.io/github/followers/madhur2605?label=Follow&style=flat-square&logo=github)](https://github.com/madhur2605)
@@ -13,9 +17,11 @@
 
 ## 🧭 About Me
 
-I'm a **dual-degree student** pursuing BS Analytics & Sustainability Studies (3rd year) at **TISS Mumbai** and BS Data Science (Freshman) at **IIT Madras** — simultaneously. My work sits at the intersection of **analytics**, **environmental data science**, **spatial analysis**, **climate**, **ESG**, **Energy**, and **sustainability strategy**.
+Third-year at TISS Mumbai (BS Analytics & Sustainability Studies), Freshman at IIT Madras (BS Data Science). Pursuing both simultaneously, which says enough about how I operate.
 
-I believe data insights can enhance solutions to solve complex problems — whether it's recovering value from e-waste in Mumbai, calculating climate risks in localised contexts, or designing parameters/indicators to conduct assessments (in SDGs & policy contexts).
+I work at the intersection of data science, spatial analysis, climate risk, ESG, and sustainability strategy. Not because it's a trend, but because the problems at that intersection are the ones actually worth solving — e-waste piling up in cities, flood risk that local governments can't quantify, policy indicators that don't reflect ground reality.
+
+My approach is simple: if there's a complex problem, there's probably a dataset that can make it less complex.
 
 ---
 
